@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+  <head>
+<style type="text/css">
+  html, body { height: 100%; margin: 0; padding: 0; }
+  #map {float:left; height: 75%; width: 75%;}
+  #search {float:right; width: 20%}
+</style>
+  </head>
+  <body>
+	<div><h1>Mapa de prueba</h1> </div>
+	<div id="search">Busca los colegios. loren ipsum<br>asdasdas dasd asda sdas</div>
+	<div id="map"></div>
+    <script>
+    function initMap() {
+		var aaa = {lat: 42.344373, lng: -3.697249};
+		var aab = {lat: 40.4153774, lng: -3.7082803};
+		var aac = {lat: 40.9645204, lng: -5.6670264};
+		
+        // Create a map object and specify the DOM element for display.
+        var map = new google.maps.Map(document.getElementById('map'), {
+          center: aab,
+          zoom: 6
+        });
+			
+		// Create a marker and set its position.
+		var marker = new google.maps.Marker({
+		  map: map,
+		  clickable: true,
+		  position: aaa,
+		  title: 'Burgos!'
+		});
+		
+		var image = 'iconos/bank.png';
+		var marker = new google.maps.Marker({
+          map: map,
+          position: aab,
+		  icon: image,
+          title: 'Madrid!'
+        });
+		
+		var marker = new google.maps.Marker({
+          map: map,
+          position: aac,
+		  icon: {
+			path: google.maps.SymbolPath.BACKWARD_CLOSED_ARROW,
+			strokeColor: "Purple",
+			scale: 3
+		  },
+          title: 'Salamanca!'
+        });
+	}
+    </script>
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDo8Y6ekfL_zzmi5qrDVZ-ykfhbH4iq1ys&callback=initMap"
+        async defer></script>
+  </body>
+<?-- SymbolPath constants
+
+google.maps.SymbolPath constants
+
+Built-in symbol paths.
+
+Constant
+BACKWARD_CLOSED_ARROW	A backward-pointing closed arrow.
+BACKWARD_OPEN_ARROW	A backward-pointing open arrow.
+CIRCLE	A circle.
+FORWARD_CLOSED_ARROW	A forward-pointing closed arrow.
+FORWARD_OPEN_ARROW	A forward-pointing open arrow.--?>
+
+</html>
+

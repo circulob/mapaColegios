@@ -1,0 +1,108 @@
+id;approved;name;type;lat;lng;address;uri;descripcion;schoolType;phone;fax;postalCode
+1;;Escolas dels encants;Preschool;;;Consell de Cent, 558-560,Barcelona;;;Public;;;8020
+2;;Escola Pia Olot;Multi-level;;;Plaza Clara, 9,Olot, Girona;http://olot.escolapia.cat/;;Private;972 26 02 12;;17800
+3;;Escola Mata de Jonc;Multi-level;;;Son Espanyolet, 49,Palma de Mallorca;http://www.matadejonc.cat/;;Charter;971 73 66 77;971283952;7014
+4;;Escola Mata de Jonc;Multi-level;;;Son Espanyolet, 49,Palma de Mallorca;http://www.matadejonc.cat/;;Charter;971 73 66 77;971283952;7014
+5;;Escola Martinet;Multi-level;;;Martinet, 1,Cornella de Llobregat, Barcelona;http://agora.xtec.cat/escolamartinet/;;Private;933 77 67 54;;8940
+6;;ESCOLA LHORITZo;Multi-level;;;Passeig de la Bonanova 7,Barcelona;;;Private - Religious Affiliation;;;8022
+7;;Escola Guerau de Peguera;Primary (Elementary School);;;Escoles, ,Barcelona, Torrelles de Foix;;;Public;93 897 13 77;;8737
+8;;Escola Garbi Pere vergues;Unknown;;;Avinguda de les Palmeres, 5,Badalona, Barcelona;;;Charter;;;8916
+;;Escola Epiqueia;Multi-level;;;Sant Joan de Mediona, Alt Penedès, Giron;;;Public;659 36 10 45;;
+;;Escola Elisabeth;Multi-level;;;Carrer Miquel Marti i Pol, 1,Tarragona, Salou;;;Private;977 38 38 51;977 38 33 30;43840
+;;Escola Congres Indians;Primary (Elementary School);;;Acores, 1-3,Barcelona;http://escolacongresindians.com/;;Public;933 400 975;;8027
+;;El Dragon;Unknown;;;Torrelodones, Madrid;;;Public;;;
+;;EEI Zofio;Unknown;;;Madrid;;;Public;;;
+;;CRA Entre dos rios Segovia;Multi-level;;;Segovia;;;Public;;;
+;;CRA Alta Ribagorza;Primary (Elementary School);;;Huesca;;;Public;;;
+;;CPI Castroverde Publico Lugo;Multi-level;;;Lugo;;;Public;;;
+;;CPI Castroverde;Multi-level;;;Dos nenos,Castroverde, Lugo;;;Public;;;27120
+;;CPI Castroverde;Multi-level;;;Dos nenos,Castroverde, Lugo;;;Public;;;27120
+;;CP Principe Felipe;Primary (Elementary School);;;Avda. Monforte de Lemos 24Madrid;;;Public;913 14 68 19;913232548;28029
+;;C.P Buztintxuri I.P.;Multi-level;;; Victor Eusa 1,Pamplona;http://cpbuztintxuri.educacion.navarra.es/;;Public;;;31012
+;;CP Alvara Alvarez;Primary (Elementary School);;;Navarra, Falces;;;Public;;;
+;;Colegios SEK;Unknown;;;Unknown;;;Private;;;
+;;Escuela Infantil Zaleo;Preschool;;;Fuente de Piedra, 4Madrid, Barrio de Palomeras Sureste;http://www.educa.madrid.org/web/eei.zaleo.madrid/index-nueva.htm;;Public;91 772 19 76 / 608 023 408;;28018
+;;Colegio Vizcaya Sociedad Cooperativa de ensenanza;Unknown;;;Barrio Galbarriatu, 6,Zamudio, Vizcaya;;;Private;;;
+;;Colegio Verdemar;Multi-level;;;La Llanilla 102,Santander;http://www.colegioverdemar.com/;;Charter;942 338 169;;39012
+;;Colegio Santa Rafaela Maria;Middle School;;;Calle de Santa Rafaela Maria del Sagrado Corazon, 112Madrid;;;Private;917 85 88 01;;28053
+;;Colegio Santa Maria La Blanca Montecarmelo;Unknown;;;Monasterio de Oseira, 17Madrid;;;Charter;917 508 692;917 508 636;28049
+;;Colegio Santa Ana;Primary (Elementary School);;; Major, 12,La Pobla Llarga, Valencia;https://csantaana.wordpress.com/;;Charter;96 2970791;;46670
+;;Colegio San Ignacio Jesuitas;Unknown;;;Avda Richard Grandio,Oviedo, Asturias;;;Public;;;33193
+;;Colegio San Gabriel Concertado Burgos;Multi-level;;;Burgos;;;Charter;;;
+;;Colegio San Diego y San Vicente;Primary (Elementary School);;;Paseo Eduardo Dato, 4Madrid;http://sandiegoysanvicente.com/;;Charter;91.308.20.30;;28010
+;;Colegio Sagrado Corazon de Alsasua;Unknown;;;Navarra;;;Charter;;;
+;;Colegio Sagrado Corazon;Multi-level;;; Navalmoral, 2,Coria, Caceres;http://www.sagradocorazoncoria.com/;;Charter;927 50 02 87;927 50 00 31;10800
+;;Colegio Sagrado Corazon de Alsasua;Unknown;;;Navarra;;;Charter;;;
+;;Colegio Sagrada Familia;Multi-level;;;Oberon, 6Madrid;;;Charter;;;28030
+;;Colegio SAFA Madrid;Multi-level;;;Madrid;;;Charter;;;
+;;Colegio Publico Hurchillo;Primary (Elementary School);;;Carretera Bigastro, 4,Hurchillo, Orihuela, Alicante;;;Public;966 90 42 80;;3313
+;;Colegio Parroquial Santiago Apostol Valencia;Multi-level;;;Valencia;;;Charter;;;
+;;Colegio Obradoiro;Multi-level;;;A Coruna;;;Charter;;;
+;;Colegio Nuestra Senora de Fatima;Multi-level;;;manuel munoz, 30 Madrid;http://www.colegiofatima.es/;;Charter;91 475 78 80;;
+;;Colegio Montpellier;Multi-level;;;Calle de la Virgen del Val, 7Madrid;;;Charter;;;28027
+;;Colegio Lourdes FUHEM;Multi-level;;; San Roberto 8 Madrid;: http://colegiolourdes.fuhem.es/;;Charter;91 518 03 58;91 518 48 20;28011
+;;Colegio Lope de Vega;Unknown;;;Avda. Doctor Severo Ochoa 9,Benidorm, Alicante;;;Private;;;3503
+;;Colegio Liceo Marista;Multi-level;;;Plaza San Marcelino Champagnat,1,Burgos;http://www.maristasburg os.org/;;Private;947 238 161;947 211 787;9006
+;;Colegio Laudo;Unknown;;;Vizcaya;;;Charter;;;
+;;Colegio interno Mayol;Multi-level;;;Airen n 7 (Urbanizacion San Bernardo),Toledo;;;Other;925 22 07 33;925222084;45004
+;;Colegio Imperial San Vicente Ferrer;Multi-level;;;Calle san vicente ferrer, 4,San Antonio de Benageber, Valencia;;;Charter;674 164 057 / 96 135 20 60;96 135 05 28 / 96 135 10 96;46184
+;;Colegio Huerta Santa Ana Sevilla;Multi-level;;;Sevilla;;;Charter;;;
+;;Colegio Ferroviario;Unknown;;;Cordoba;;;Private - Religious Affiliation;;;
+;;Colegio Decroly;Multi-level;;;Camino Las Mercedes,San Cristobal de La Laguna, Santa Cruz de tenerife;http://www.colegiodecroly.es/;;Charter;;;38293
+;;Colegio Cardenal Spinola - Linares;Primary (Elementary School);;; Madre San Pablo (antigua  Seguirilla), 26,Linares, Jaen;http://www.sagradocorazonlinares.com/;;Charter;953 69 41 01;953 60 10 71;23700
+;;Colegio Cardenal Spinola;Unknown;;;Paseo Santa Fe, 5,Huelva;;;Private - Religious Affiliation;;;21003
+;;Colegio Brot;Multi-level;;;General Romero Basart, 88Madrid;;;Charter;;;28044
+;;Colegio Aula Balear;Multi-level;;;Can Valero, 19,Palma de Mallorca, Baleares;;;Charter;971 20 23 01;971 20 69 15;7011
+;;Colegio Arturo Soria;Multi-level;;;Duque de Tamames, 4Madrid;http://www.colegioarturosoria.org/;;Private;914 15 72 95;;28043
+;;Colegio Artica;Multi-level;;;Calle Morales, 25Madrid;http://www.jrotero.org/index.php/artica#;;Charter;915 112 615;914 006 071;28054
+;;Colegio Antonio Gala;Multi-level;;;Barriada Vistazul,Sevilla, Dos Hermanas;http://www.galacolegio.com/es/;;Charter;955 675 716;955 675 930;41702
+;;Colegio Antonio de Nebrija;Multi-level;;;Paraje Casablanca,Cabezo de Torres, Murcia;http://www.antoniodenebrija.com/;;Charter;968 308 183;968 308 389;30110
+;;Colegio Andolina Sociedad Cooperativa Asturiana;Primary (Elementary School);;;Camino del Barreo 203 Cefontes,Cabuenes, Gijon, Asturias;http://www.colegioandolina.org/;;Private;683 178 194;;33394
+;;Colegio Altair Internacional;Multi-level;;;Madrid;;;Private - Religious Affiliation;;;
+;;CIUDAD DE LOS MUCHACHOS;Multi-level;;;Santa Marta, 15Madrid;;;Charter;;;28038
+;;CEIP Vital Alsar;Multi-level;;;Cueto, Santander;;;Public;;;
+;;CEIP Virgen del Oro;Primary (Elementary School);;;AV. CONSTITUCION , 46,Abaran, Murcia;;;Public;;;30550
+;;CEIP Virgen del Oro;Primary (Elementary School);;;AV. CONSTITUCION , 46,Abaran, Murcia;;;Public;;;30550
+;;CEIP Tremanes;Primary (Elementary School);;;Bazan 47,Gijon, Asturias;;;Public;985 32 24 68;;33211
+;;CEIP Ses Marjades;Primary (Elementary School);;;Carrer de Ses Marjades,Soller, Baleares;;;Public;971 63 38 85;;7100
+;;CEIP SES AA La Paz Albacete;Primary (Elementary School);;;Francisco Belmonte,Albacete;;;Public;;;02008 
+;;CEIP Santa Ana;Primary (Elementary School);;;Pedrezuela;http://www.ceipsantaana.es/;;Public;;;
+;;CEIP Sant Miquel;Primary (Elementary School);;;Calle Estacio,8,Son Carrio, Baleares;http://ceipsantmiquelsoncarrio.blogspot.com.es/;;Public;971 56 91 55;;07 540
+;;CEIP San Walabonso Huelva Niebla;Primary (Elementary School);;;Ctra. Sevilla-Huelva,Niebla, Huelva;;;Public;;;21840
+;;CEIP San Jose Obrero Sevilla;Primary (Elementary School);;;Sevilla;;;Public;;;
+;;CEIP Rufino Blanco;Multi-level;;;General alvarez de Castro n 46Madrid;;;Private - Religious Affiliation;;;28010
+;;CEIP Rosa dels Vents;Primary (Elementary School);;;Calle Es Vivers, 16,Baleares, Colonia de Sant Pere;;;Public;971 58 92 42;;7579
+;;CEIP Ramon y Cajal Zaragoza Alpartir;Primary (Elementary School);;;Camino Almonacid, ,Alpartir;http://cpalpartir.educa.aragon.es/;;Public;+34976 81 33 00;;50109
+;;CEIP Princesa de Asturias;Primary (Elementary School);;;Alicante, Elche;;;Public;;;
+;;CEIP Palomeras Bajas;Primary (Elementary School);;;Calle de Felipe de Diego, 6Madrid;;;Public;;;28018
+;;"CEIP Nuestra Senora de Gracia ""El Gracia""";Primary (Elementary School);;;Ferrandiz, 2,Malaga;http://www.ceipelgracia.com/;;Public;951298895/94;;29012
+;;CEIP Mario Bendetti;Primary (Elementary School);;;Camino de la Partija,Rivas - Vaciamadrid, Madrid;;;Public;;;28523
+;;CEIP Manuel Nunez de Arenas;Primary (Elementary School);;;Vallecas, Madrid;;;Public;;;
+;;CEIP Manuel Bartolome Cossio;Primary (Elementary School);;;Jose de Cadalso, 19Madrid;http://bartolome.wordpress.com;;Public;91 706 409;;28044
+;;CEIP Luis Vives - L'Escolaica Cullera Valencia;Primary (Elementary School);;;Plaça Andres Piles,Cullera, Valencia;http://www.escolaica.org/;;Public;961 71 90 80;;46400
+;;CEIP LEKEITIO LHI;Multi-level;;;Lekeitio, Vizcaya;;;Public;;;
+;;CEIP La Pradera Segovia Valsain;Primary (Elementary School);;;Travesia Robledo,Valsain, Segovia;;;Public;;;40109
+;;CEIP La Biznaga Malaga;Primary (Elementary School);;;Suceso Luengo, 15,Malaga;http://colegiolabiznaga.es/;;Public;649 80 59 96;;29018
+;;CEIP Gomez Moreno;Primary (Elementary School);;;Callejon de las Campanas, 7,Granada;http://colegiogomezmorenogranada.blogspot.c om.es;;Public;958 89 31 22;;18010
+;;CEIP ES Talaiot;Primary (Elementary School);;;Anfos,Illot, Baleares;http://ceiptalaiot.org/;;Public;971 81 10 82;;7687
+;;CEIP El Quijote;Primary (Elementary School);;;Fuentiduena, 4Madrid;http://www.educa.madrid.org/web/cp.elquijot e.madrid/;;Public;;;28031
+;;CEIP Atalaya de Atarfe;Primary (Elementary School);;;Avenida Libertad,Atarfe, Granada;http://www.juntadeandalucia.es/averroes/centros-ti18601989/helvia/sitio/;;Public;958 89 39 18;958 89 39 19;18230
+;;CEIP Andalucia;Primary (Elementary School);;;Sevilla;;;Public;;;
+;;CEIP Aldebaran;Secondary (High School);;; Salvia 1,Tres Cantos, Madrid;http://novedades-aldebaran.blogspot.com.es/;;Public;91 804 33 98;;28760
+;;CEIP Adriano del Valle;Primary (Elementary School);;;Azorin,Sevilla;;;Public;955 62 35 68;;41006
+;;CEIP 3,0 Ciudad del Mar Torrevieja Valencia;Primary (Elementary School);;;Avda. Tirso de Molina,Torrevieja, Valencia;:http://www.colegiociudaddelmar.es/i ndex.php;;Public;965290170 - 965290172;965290171;3183
+;;Cardenal Spinola;Multi-level;;;Madrid;http://www.colegiospinola.org/;;Charter;;;
+;;C.R.A. Entre dos rios;Multi-level;;;Segovia;;;Public;;;
+;;IES Can Jofresa;Secondary (High School);;;Av. Can Jofresa, 12,Terrassa, Barcelona;;;Public;;;8223
+;;San Pere INS Mongros;Unknown;;;Barcelona;;;Public;;;
+;;San Pere Esplai Obert La Serra;Unknown;;;Barcelona, San Pere;;;Charter;;;
+;;Institut Escola La Tordera;Unknown;;;Barcelona;;;Public;;;
+;;Askarza Claret;Unknown;;;Vizcaya;;;Other;;;
+;;Colegio Altair Internacional;Multi-level;;;Madrid;;;Private - Religious Affiliation;;;
+;;San Cristobal;Primary (Elementary School);;;Madrid;;;Public;;;
+;;International College Spain;Unknown;;;Madrid;;;Private - Religious Affiliation;;;
+;;Gaudem Conc;Multi-level;;;Madrid;;;Charter;;;
+;;CPR Santa Apolonia;Unknown;;;Poza Real da abaixo, 5,Santiago de Compostela;;;Public;;;15706
+;;Colegio Akua;Multi-level;;;Masia Can Ribot, Av Comte Ramon Berenguer 138,Santa Coloma Cervello;www.fundacionakua.org;;Private;;;08690
+;;FUHEM Montserrat;Multi-level;;;Calle Juan Esplandiu 2Madrid;http://colegiomontserrat.fuhem.es;;Charter;915 73 75 07;;28007
+;;FUHEM Hipatia Rivas;Multi-level;;;Av. Ocho de Marzo 1,Rivas-Vaciamadrid;http://www.colegiohipatia.fuhem.es;;Charter;917139700;917139701;28523
