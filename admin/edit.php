@@ -45,7 +45,7 @@ if($task == "doedit") {
 
 
 
-<? echo $admin_head; ?>
+<?php echo $admin_head; ?>
 
 <form id="admin" class="form-horizontal" action="edit.php" method="post">
   <h1>
@@ -62,13 +62,13 @@ if($task == "doedit") {
       <label class="control-label" for="">Type</label>
       <div class="controls">
         <select class="input input-xlarge" name="type">
-          <option<? if($place["type"] == "Multi-Level") {?> selected="selected"<? } ?>>Multi-Level</option>
-          <option<? if($place["type"] == "Preschool") {?> selected="selected"<? } ?>>Preschool</option>
-          <option<? if($place["type"] == "Primary") {?> selected="selected"<? } ?>>Primary</option>
-          <option<? if($place["type"] == "Secondary") {?> selected="selected"<? } ?>>Secondary</option>
-          <option<? if($place["type"] == "Middle-School") {?> selected="selected"<? } ?>>Middle-School</option>
-          <option<? if($place["type"] == "Others") {?> selected="selected"<? } ?>>Others</option>
-          <option<? if($place["type"] == "Unknown") {?> selected="selected"<? } ?>>Unknown</option>
+          <option<?php if($place["type"] == "Multi-Level") {?> selected="selected"<?php } ?>>Multi-Level</option>
+          <option<?php if($place["type"] == "Preschool") {?> selected="selected"<?php } ?>>Preschool</option>
+          <option<?php if($place["type"] == "Primary") {?> selected="selected"<?php } ?>>Primary</option>
+          <option<?php if($place["type"] == "Secondary") {?> selected="selected"<?php } ?>>Secondary</option>
+          <option<?php if($place["type"] == "Middle-School") {?> selected="selected"<?php } ?>>Middle-School</option>
+          <option<?php if($place["type"] == "Others") {?> selected="selected"<?php } ?>>Others</option>
+          <option<?php if($place["type"] == "Unknown") {?> selected="selected"<?php } ?>>Unknown</option>
         </select>
       </div>
     </div>
@@ -149,4 +149,4 @@ if($task == "doedit") {
 
 
 
-<? echo $admin_foot; ?>
+<?php echo $admin_foot; ?>

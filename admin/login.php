@@ -1,4 +1,4 @@
-<?
+<?php
 $page = "login";
 include "header.php";
 
@@ -33,24 +33,15 @@ if($task == "dologin") {
 
 ?>
 
-
-
-
-
-
-<? echo $admin_head; ?>
+<?php echo $admin_head; ?>
 
 <form class="well form-inline" action="login.php" id="login" method="post">
   <h1>
-    RepresentMap Admin
+    Ashoka Mapa Admin
   </h1>
-  <?
+  <?php
     if($alert != "") {
-      echo "
-        <div class='alert alert-danger'>
-          $alert
-        </div>
-      ";
+      echo "<div class='alert alert-danger'>".$alert."</div>";
     }
   ?>
   <input type="text" name="user" class="input-large" placeholder="Username">

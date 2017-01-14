@@ -9,7 +9,7 @@ $db_name = "ashoka";
 $db_user = "admin";
 
 // database password
-$db_pass = "sergio";
+$db_pass = "ashoka";
 
 // admin username
 $admin_user = "admin";
