@@ -53,13 +53,13 @@ if($task == "doedit") {
   </h1>
   <fieldset>
     <div class="control-group">
-      <label class="control-label" for="">Name</label>
+      <label class="control-label" for="">The School's Name</label>
       <div class="controls">
         <input type="text" class="input input-xlarge" name="name" value="<?=$place["name"]?>" id="">
       </div>
     </div>
     <div class="control-group">
-      <label class="control-label" for="">Type</label>
+      <label class="control-label" for="">School Type</label>
       <div class="controls">
         <select class="input input-xlarge" name="type">
           <option<?php if($place["type"] == "Multi-Level") {?> selected="selected"<?php } ?>>Multi-Level</option>

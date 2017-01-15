@@ -2,6 +2,13 @@
 include "../include/db.php";
 $task ="";
 
+// input parsing
+function parseInput($value) {
+  $value = htmlspecialchars($value, ENT_QUOTES);
+  $value = str_replace("\r", "", $value);
+  $value = str_replace("\n", "", $value);
+  return $value;
+}
 
 // get task
 if(isset($_GET['task'])) {
@@ -66,6 +73,7 @@ if($page != "login") {
           <a class='brand' href='index.php'>
             RepresentMap
           </a>
+		  <a href='add_form.php' class='btn btn-large btn-success' data-toggle='modal'><i class='icon-plus-sign icon-white'></i>Add School</a>
           <ul class='nav'>
             <li"; if($view == "") { $admin_head .= " class='active'"; } $admin_head .= ">
               <a href='index.php'>All Listings</a>

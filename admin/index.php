@@ -127,5 +127,4 @@ echo $admin_head;
 
 </div>
 
-
 <?php echo $admin_foot ?>

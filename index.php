@@ -409,7 +409,6 @@ $error = "";
           </div>
           <div class="buttons">
 			<a href="#modal_info" class="btn btn-large btn-info" data-toggle="modal"><i class="icon-info-sign icon-white"></i>About this Map</a>
-             <!--<a href="#modal_add" class="btn btn-large btn-success" data-toggle="modal"><i class="icon-plus-sign icon-white"></i>Add Something</a>-->
           </div>
           <div class="search">
             <input type="text" name="search" id="search" placeholder="Search for schools..." data-provide="typeahead" autocomplete="off" />
