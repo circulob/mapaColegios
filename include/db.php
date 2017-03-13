@@ -95,16 +95,16 @@ $title_tag = "Mapa by Sergio del Mazo";
 $lat_lng = "40.4381311,-3.8196213";
 
 // Domain to use for various links
-$domain = "http://www.sergiodelmazo.es";
+$domain = "http://www.ashoka.es/";
 
 // Twitter username and default share text
 $twitter = array(
-  "share_text" => "El mapa de sergio",
-  "username" => "sergio"
+  "share_text" => "Mapa de Colegios Ashoka",
+  "username" => "ashoka"
 );
 
 // Short blurb about this site (visible to visitors)
-$blurb = "Un mapa de prueba";
+$blurb = "Mapa de colegios Ashoka";
 
 // attribution (must leave link intact, per our license)
 $attribution = "
